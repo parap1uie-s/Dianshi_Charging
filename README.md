@@ -11,4 +11,4 @@ Fault classification of charging pile by tree based method
 
 线上成绩：F1-score = 1.0000
 
-方法：lightGBM
+方法：lightGBM，无特征工程
