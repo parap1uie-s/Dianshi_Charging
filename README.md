@@ -7,6 +7,8 @@ Fault classification of charging pile by tree based method
 
 竞赛简介：结构化数据二分类问题
 
+<img src="img.png">
+
 线上成绩：F1-score = 1.0000
 
 方法：lightGBM
